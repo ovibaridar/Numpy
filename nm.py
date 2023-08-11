@@ -9,4 +9,11 @@ import numpy as np
 # vr = np.full((3, 3), value)
 vr = np.eye(3)
 
-print(vr)
+# reflections of vr and the id is different
+# vrs = vr.view()
+
+# copy of vr and the id is Same
+vrs = vr
+
+print(id(vr))
+print(id(vrs))
