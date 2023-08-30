@@ -7,4 +7,4 @@ print(arr)
 
 vr = nm.arange(1, 10, 2)
 
-print(vr)
+print("this is  ", vr)
