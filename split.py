@@ -8,3 +8,7 @@ print(arr)
 vr = nm.arange(1, 10, 2)
 
 print("this is  ", vr)
+print("this is  ", vr)
+print("this is  ", vr)
+print("this is  ", vr)
+print("this is  ", vr)
